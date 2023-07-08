@@ -22,7 +22,7 @@
             Object(d.jsx)(c.a, {
               className: "spline",
               scene:
-                "https://criticaugen.github.io/portfolio/static/scene.splinecode",
+                "https://criticaugen.github.io/spline-portfolio/static/scene.splinecode",
             }),
             Object(d.jsxs)(m, {
               children: [
